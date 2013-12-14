@@ -45,3 +45,6 @@ $(call inherit-product, device/samsung/kona-common/kona-common.mk)
 
 $(call inherit-product, vendor/samsung/n5100/n5100-vendor.mk)
 
+# TWRP
+PRODUCT_COPY_FILES += \
+    device/samsung/n5100/twrp.fstab:recovery/root/etc/twrp.fstab

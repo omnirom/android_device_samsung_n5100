@@ -33,11 +33,27 @@ BOARD_MODEM_TYPE := xmm6262
 # Recovery
 TARGET_RECOVERY_FSTAB := device/samsung/kona-common/rootdir/fstab.smdk4x12
 RECOVERY_FSTAB_VERSION := 2
-BOARD_RECOVERY_SWIPE := true
-BOARD_RECOVERY_SWIPE_SWAPXY := true
+# BOARD_RECOVERY_SWIPE := true
+# BOARD_RECOVERY_SWIPE_SWAPXY := true
 
 # inherit from the proprietary version
 -include vendor/samsung/n5100/BoardConfigVendor.mk
 
 # assert
 TARGET_OTA_ASSERT_DEVICE := GT-N5100,kona3g,n5100,kona3gxx
+
+# TWRP Recovery
+DEVICE_RESOLUTION := 1280x800
+RECOVERY_SDCARD_ON_DATA := true
+TW_INTERNAL_STORAGE_PATH := "/data/media"
+TW_INTERNAL_STORAGE_MOUNT_POINT := "data"
+TW_EXTERNAL_STORAGE_PATH := "/external_sdcard"
+TW_EXTERNAL_STORAGE_MOUNT_POINT := "external_sdcard"
+# SP1_NAME := "efs"
+# SP1_BACKUP_METHOD := files
+# SP1_MOUNTABLE := 1
+# SP2_BACKUP_METHOD := image
+# SP2_MOUNTABLE := 0
+TARGET_USERIMAGES_USE_EXT4 := true
+RECOVERY_TOUCHSCREEN_FLIP_Y := true
+RECOVERY_TOUCHSCREEN_SWAP_XY := true
