@@ -22,7 +22,7 @@ LOCAL_PATH := device/samsung/n5100
 
 # Inline kernel building
 TARGET_KERNEL_SOURCE := kernel/samsung/smdk4412
-TARGET_KERNEL_CONFIG := cyanogenmod_n5100_defconfig
+TARGET_KERNEL_CONFIG := custom_n5100_defconfig
 
 TARGET_SPECIFIC_HEADER_PATH := $(LOCAL_PATH)/include
 
