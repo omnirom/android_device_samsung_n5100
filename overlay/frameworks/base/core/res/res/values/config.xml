@@ -77,4 +77,7 @@
      For example, a device with Home, Back and Menu keys would set this
      config to 7. -->
     <integer name="config_deviceHardwareKeys">7</integer>
+    
+    <!-- Boolean to enable custom button actions -->
+    <bool name="config_has_hardware_buttons">true</bool>
 </resources>
