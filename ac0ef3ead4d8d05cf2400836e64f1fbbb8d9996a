@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "6b8b61a3_be5d7a4b",
+        "filename": "omni.dependencies",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1000001
+      },
+      "writtenOn": "2014-01-01T13:11:15Z",
+      "side": 1,
+      "message": "Same as the other commit, no proprietaries in here.",
+      "revId": "ac0ef3ead4d8d05cf2400836e64f1fbbb8d9996a",
+      "serverId": "56841c99-7c94-43d4-bf0b-cb4707e66d55",
+      "unresolved": false
+    }
+  ]
+}
