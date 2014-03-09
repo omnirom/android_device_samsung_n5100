@@ -15,5 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/full_n5100.mk \
     $(LOCAL_DIR)/omni_n5100.mk

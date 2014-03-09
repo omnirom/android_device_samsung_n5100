@@ -1,3 +1,0 @@
-$(call inherit-product, device/samsung/n5100/full_n5100.mk)
-
-PRODUCT_NAME := aosp_n5100
