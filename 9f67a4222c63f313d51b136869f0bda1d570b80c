@@ -1,0 +1,96 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "6b22818b_1db85e70",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 58,
+      "author": {
+        "id": 1000466
+      },
+      "writtenOn": "2015-03-04T04:42:57Z",
+      "side": 1,
+      "message": "whitespace",
+      "range": {
+        "startLine": 58,
+        "startChar": 0,
+        "endLine": 58,
+        "endChar": 1
+      },
+      "revId": "9f67a4222c63f313d51b136869f0bda1d570b80c",
+      "serverId": "56841c99-7c94-43d4-bf0b-cb4707e66d55",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "6b22818b_fdb2a292",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 63,
+      "author": {
+        "id": 1000466
+      },
+      "writtenOn": "2015-03-04T04:42:57Z",
+      "side": 1,
+      "message": "Not necessary, just delete it.",
+      "range": {
+        "startLine": 61,
+        "startChar": 4,
+        "endLine": 63,
+        "endChar": 50
+      },
+      "revId": "9f67a4222c63f313d51b136869f0bda1d570b80c",
+      "serverId": "56841c99-7c94-43d4-bf0b-cb4707e66d55",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "6b22818b_3dad1a2e",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 64,
+      "author": {
+        "id": 1000466
+      },
+      "writtenOn": "2015-03-04T04:42:57Z",
+      "side": 1,
+      "message": "white space",
+      "range": {
+        "startLine": 64,
+        "startChar": 0,
+        "endLine": 64,
+        "endChar": 4
+      },
+      "revId": "9f67a4222c63f313d51b136869f0bda1d570b80c",
+      "serverId": "56841c99-7c94-43d4-bf0b-cb4707e66d55",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "6b22818b_5daad616",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 69,
+      "author": {
+        "id": 1000466
+      },
+      "writtenOn": "2015-03-04T04:42:57Z",
+      "side": 1,
+      "message": "whitespace",
+      "range": {
+        "startLine": 69,
+        "startChar": 0,
+        "endLine": 69,
+        "endChar": 4
+      },
+      "revId": "9f67a4222c63f313d51b136869f0bda1d570b80c",
+      "serverId": "56841c99-7c94-43d4-bf0b-cb4707e66d55",
+      "unresolved": false
+    }
+  ]
+}
